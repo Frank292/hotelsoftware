@@ -31,8 +31,8 @@ class MyWidget extends HookConsumerWidget {
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
-                            Text('Title'),
-                            Text('1'),
+                            Text('Zimmer Nr.: ${zimmer.zimmerNummer}'),
+                            Text(zimmer.id.toString()),
                           ],
                         ),
                       ),
@@ -42,7 +42,7 @@ class MyWidget extends HookConsumerWidget {
                       child: Center(
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.spaceAround,
-                          children: [Text('Zimmerbetten'), Text(zimmer.status)],
+                          children: [Text(lol[zimmer.bettenId] ?? 'Unbekannt'), Text(zimmer.status)],
                         ),
                       ),
                     ),
