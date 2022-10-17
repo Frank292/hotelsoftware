@@ -1,36 +1,59 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:http/http.dart' as http;
+import 'package:hotelsoftware/states/zimmer_provider.dart';
+import 'package:hotelsoftware/states/zimmer_state.dart';
 
-var stringRef = StateProvider((ref) => 'test');
+var stringRef = StateNotifierProvider<ZimmerProvider, ZimmerState>((ref) => ZimmerProvider(ZimmerState()));
 
 class MyWidget extends HookConsumerWidget {
-  const MyWidget({Key? key}) : super(key: key);
+  MyWidget({Key? key}) : super(key: key) {}
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final text = ref.watch(stringRef);
+    final zimmerList = ref.watch(stringRef).zimmer;
 
-    return Column(
-      children: [
-        Text(text),
-        TextButton(
-          onPressed: () async {
-            ref.read(stringRef.notifier).state = await getDataFromSql();
-          },
-          child: const Text('Load'),
-        )
-      ],
+    return SingleChildScrollView(
+      child: Column(
+        children: [
+          for (final zimmer in zimmerList)
+            Container(
+              margin: const EdgeInsets.all(6),
+              padding: const EdgeInsets.all(6),
+              child: Container(
+                padding: EdgeInsets.all(6),
+                margin: EdgeInsets.all(6),
+                color: Colors.grey,
+                height: 80,
+                child: Column(
+                  children: [
+                    Flexible(
+                      child: Container(
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: [
+                            Text('Title'),
+                            Text('1'),
+                          ],
+                        ),
+                      ),
+                    ),
+                    Flexible(
+                      flex: 3,
+                      child: Center(
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceAround,
+                          children: [Text('Zimmerbetten'), Text(zimmer.status)],
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+        ],
+      ),
     );
   }
 }
 
-Future<String> getDataFromSql() async {
-  var url = Uri.http("localhost", "/hotel.php");
-  var response = await http.get(url);
-  log(response.body);
-  //call the string data from php file
-  return response.body;
-}
+Map<int, String> lol = {1: 'Einzelbetten', 2: 'Zwei Einzelbetten', 3: 'Doppelbett'};

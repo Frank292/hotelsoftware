@@ -1,10 +1,13 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:hotelsoftware/GUI/home.dart';
+import 'package:hotelsoftware/GUI/hotelsoftware_app.dart';
 import 'package:hotelsoftware/widget.dart';
 
 void main() {
   runApp(const MyApp());
-  getDataFromSql();
 }
 
 class MyApp extends StatelessWidget {
@@ -13,18 +16,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ProviderScope(
-      child: MaterialApp(
-        title: 'Flutter Demo',
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-        ),
-        home: SingleChildScrollView(
-          child: Container(
-            color: Colors.white,
-            child: const MyWidget(),
-          ),
-        ),
-      ),
-    );
+        child: HotelsoftwareApp(
+      title: 'Hotelsoftware',
+      home: Home(),
+      onInit: ((ref) {
+        ref.read(stringRef.notifier).getZimmerFromDb();
+      }),
+    ));
   }
 }
