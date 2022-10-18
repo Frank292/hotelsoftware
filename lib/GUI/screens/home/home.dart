@@ -1,10 +1,10 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables
 
 import 'package:flutter/material.dart';
-
-import '../widget.dart';
+import 'package:hotelsoftware/widget.dart';
 
 class Home extends StatelessWidget {
+  static const String route = '/';
   final title = 'Home';
 
   const Home({super.key});
@@ -23,8 +23,8 @@ class Home extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: [
                   Container(
-                    margin: EdgeInsets.all(6),
-                    padding: EdgeInsets.all(6),
+                    margin: const EdgeInsets.all(6),
+                    padding: const EdgeInsets.all(6),
                     color: Colors.black,
                     child: Container(
                       color: Colors.white,
@@ -38,12 +38,6 @@ class Home extends StatelessWidget {
                     ),
                   ),
                 ],
-              ),
-            ),
-            Expanded(
-              child: SizedBox(
-                width: MediaQuery.of(context).size.width / 2 < 600 ? 600 : MediaQuery.of(context).size.width / 2,
-                child: MyWidget(),
               ),
             ),
           ],
