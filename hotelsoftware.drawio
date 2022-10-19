@@ -1,17 +1,267 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T11:44:49.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NGXiHDw_u-a1wiC0tRCz" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T10:39:57.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vwsTADqgF-aFjxVM3tRF" version="20.4.1" type="github">
   <diagram id="1jYBrT5xfxDaBWM9WUIU" name="Seite-1">
-    <mxGraphModel dx="4227" dy="3174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="An4b9NCefRLC3vXq-1vc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="150" width="1600" height="900" as="geometry" />
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-113" value="&amp;nbsp; Anzhal Betten" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;fillColor=#FFFFFF;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="3154" y="636" width="191" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="An4b9NCefRLC3vXq-1vc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="-120" width="120" height="60" as="geometry" />
+        <mxCell id="An4b9NCefRLC3vXq-1vc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="330" width="1600" height="900" as="geometry" />
         </mxCell>
-        <mxCell id="An4b9NCefRLC3vXq-1vc-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="1320" width="120" height="60" as="geometry" />
+        <mxCell id="An4b9NCefRLC3vXq-1vc-3" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&amp;nbsp; &amp;nbsp;Startseite&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="370" y="330" width="1600" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=40;spacing=12;endSize=12;strokeWidth=8;" edge="1" parent="1" source="-kgfXEJCmz4JMrTS1WoW-9" target="-kgfXEJCmz4JMrTS1WoW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="2420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
+          <mxGeometry x="810" y="710" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1290" y="710" width="240" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="An4b9NCefRLC3vXq-1vc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="-kgfXEJCmz4JMrTS1WoW-11" vertex="1">
+          <mxGeometry width="240" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_single;fontSize=40;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-11">
+          <mxGeometry x="70" y="16" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=8;fontSize=40;endSize=12;" edge="1" parent="1" source="An4b9NCefRLC3vXq-1vc-2" target="-kgfXEJCmz4JMrTS1WoW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Doppelbetten&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="564" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-109" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1460" y="1990" width="1610" height="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry width="1600" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-14" value="&amp;nbsp; &amp;nbsp;SPA Übersicht" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;align=left;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry width="1600" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-50" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry x="100" y="130" width="390" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-41" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-50">
+          <mxGeometry x="70" width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-42" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Sensor 1&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-41">
+          <mxGeometry width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-43" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;fontSize=40;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-41">
+          <mxGeometry x="200" y="23" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-44" value="&lt;span style=&quot;font-size: 45px;&quot;&gt;RS232 Connection&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-50">
+          <mxGeometry y="390" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-45" value="&lt;font style=&quot;font-size: 45px;&quot;&gt;Laufzeit: 15T 12:39&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-50">
+          <mxGeometry y="310" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-46" value="&lt;span style=&quot;font-size: 45px;&quot;&gt;MQTT Connection&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-50">
+          <mxGeometry y="470" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-48" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-50">
+          <mxGeometry x="60" y="120" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-38" value="50%&amp;nbsp; 24°C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=45;verticalAlign=bottom;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-48">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-48">
+          <mxGeometry x="20" y="15" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/covid-19-74/32/temperature_thermometer_covid-19-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-48">
+          <mxGeometry x="140" y="9" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-51" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry x="590" y="140" width="390" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-63" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-51">
+          <mxGeometry x="20" y="-10" width="390" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-52" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-63">
+          <mxGeometry x="70" width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-53" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Sensor 1&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-52">
+          <mxGeometry width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-54" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;fontSize=40;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-52">
+          <mxGeometry x="200" y="23" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-55" value="&lt;span style=&quot;font-size: 45px;&quot;&gt;RS232 Connection&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-63">
+          <mxGeometry y="390" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-56" value="&lt;font style=&quot;font-size: 45px;&quot;&gt;Laufzeit: 15T 12:39&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-63">
+          <mxGeometry y="310" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-57" value="&lt;span style=&quot;font-size: 45px;&quot;&gt;MQTT Connection&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-63">
+          <mxGeometry y="470" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-58" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-63">
+          <mxGeometry x="60" y="120" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-59" value="50%&amp;nbsp; 24°C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=45;verticalAlign=bottom;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-58">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-58">
+          <mxGeometry x="20" y="15" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/covid-19-74/32/temperature_thermometer_covid-19-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-58">
+          <mxGeometry x="140" y="9" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-64" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry x="1090" y="130" width="390" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-65" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-64">
+          <mxGeometry x="70" width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-66" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Sensor 1&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-65">
+          <mxGeometry width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-67" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;fontSize=40;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-65">
+          <mxGeometry x="200" y="23" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-68" value="&lt;span style=&quot;font-size: 45px;&quot;&gt;RS232 Connection&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-64">
+          <mxGeometry y="390" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-69" value="&lt;font style=&quot;font-size: 45px;&quot;&gt;Laufzeit: 15T 12:39&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-64">
+          <mxGeometry y="310" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-70" value="&lt;span style=&quot;font-size: 45px;&quot;&gt;MQTT Connection&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-64">
+          <mxGeometry y="470" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-71" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-64">
+          <mxGeometry x="60" y="120" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-72" value="50%&amp;nbsp; 24°C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=45;verticalAlign=bottom;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-71">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-71">
+          <mxGeometry x="20" y="15" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/covid-19-74/32/temperature_thermometer_covid-19-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-71">
+          <mxGeometry x="140" y="9" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-75" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry x="90" y="740" width="390" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-76" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-75">
+          <mxGeometry x="70" width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-77" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Sensor 1&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-76">
+          <mxGeometry width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-78" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;fontSize=40;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-76">
+          <mxGeometry x="200" y="23" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-82" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-75">
+          <mxGeometry x="70" y="110" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-83" value="50%&amp;nbsp; 24°C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=45;verticalAlign=bottom;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-82">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-84" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-82">
+          <mxGeometry x="20" y="15" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-85" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/covid-19-74/32/temperature_thermometer_covid-19-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-82">
+          <mxGeometry x="140" y="9" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-86" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry x="610" y="740" width="390" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-87" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-86">
+          <mxGeometry x="70" width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-88" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Sensor 1&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-87">
+          <mxGeometry width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-89" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;fontSize=40;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-87">
+          <mxGeometry x="200" y="23" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-93" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-86">
+          <mxGeometry x="60" y="120" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-94" value="50%&amp;nbsp; 24°C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=45;verticalAlign=bottom;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-93">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-93">
+          <mxGeometry x="20" y="15" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/covid-19-74/32/temperature_thermometer_covid-19-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-93">
+          <mxGeometry x="140" y="9" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-97" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry x="1100" y="740" width="510" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-98" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-97">
+          <mxGeometry x="70" width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-99" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Sensor 1&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-98">
+          <mxGeometry width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-100" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;fontSize=40;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-98">
+          <mxGeometry x="200" y="23" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-104" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-97">
+          <mxGeometry x="60" y="120" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-105" value="50%&amp;nbsp; 24°C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=45;verticalAlign=bottom;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-104">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-104">
+          <mxGeometry x="20" y="15" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-107" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/covid-19-74/32/temperature_thermometer_covid-19-128.png" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-104">
+          <mxGeometry x="140" y="9" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=45;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry y="900" width="1600" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-110" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontSize=45;fillColor=#FFFFFF;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry x="1560" y="100" width="40" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-111" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontSize=45;fillColor=#FFFFFF;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-109">
+          <mxGeometry x="1564" y="110" width="32" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3161" y="661" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-22" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-112">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Einzelbetten&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-22">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-18" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-22">
+          <mxGeometry x="140" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-23" value="" style="group" vertex="1" connectable="0" parent="-kgfXEJCmz4JMrTS1WoW-112">
+          <mxGeometry y="40" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Doppelbetten&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-23">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-21" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-23">
+          <mxGeometry x="140" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-114" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3420" y="390" width="1600" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-114">
+          <mxGeometry width="1600" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-114">
+          <mxGeometry y="100" width="200" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="-kgfXEJCmz4JMrTS1WoW-15" value="&amp;nbsp;Freie Zimmer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;align=left;" vertex="1" parent="-kgfXEJCmz4JMrTS1WoW-114">
+          <mxGeometry width="1600" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
